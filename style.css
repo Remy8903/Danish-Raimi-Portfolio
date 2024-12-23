@@ -1,41 +1,21 @@
-/* .home-background-color {
-  background: rgb(238, 174, 202);
+.home-background-color {
+  background: rgb(48, 145, 164);
   background: -moz-radial-gradient(
     circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
+    rgba(48, 145, 164, 1) 1%,
+    rgba(14, 14, 56, 1) 66%,
+    rgba(10, 9, 49, 1) 85%,
+    rgba(2, 0, 36, 1) 100%
   );
   background: -webkit-radial-gradient(
     circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
+    rgba(48, 145, 164, 1) 1%,
+    rgba(14, 14, 56, 1) 66%,
+    rgba(10, 9, 49, 1) 85%,
+    rgba(2, 0, 36, 1) 100%
   );
   background: radial-gradient(
     circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
-} */
-
-.home-background-color {
-  background: rgb(49, 145, 164);
-  background: -moz-linear-gradient(
-    90deg,
-    rgba(48, 145, 164, 1) 1%,
-    rgba(14, 14, 56, 1) 66%,
-    rgba(10, 9, 49, 1) 85%,
-    rgba(2, 0, 36, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    90deg,
-    rgba(48, 145, 164, 1) 1%,
-    rgba(14, 14, 56, 1) 66%,
-    rgba(10, 9, 49, 1) 85%,
-    rgba(2, 0, 36, 1) 100%
-  );
-  background: linear-gradient(
-    90deg,
     rgba(48, 145, 164, 1) 1%,
     rgba(14, 14, 56, 1) 66%,
     rgba(10, 9, 49, 1) 85%,
@@ -43,7 +23,6 @@
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3091a4",endColorstr="#020024",GradientType=1);
 }
-
 .icon {
   padding: 5px;
 }
